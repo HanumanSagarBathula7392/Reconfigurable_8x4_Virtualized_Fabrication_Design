@@ -55,7 +55,7 @@ The main module that interconnects all components to form the Reconfigurable com
 
 - [Computational_Unit (CUF.vhd)](https://github.com/HanumanSagarBathula7392/Reconfigurable_8x4_Virtualized_Fabrication_Design/blob/master/Computational_Unit/CUF.vhd): Implementation of the CU_6 entity
 - [Multiplexer (MUX4X1.vhd)](https://github.com/HanumanSagarBathula7392/Reconfigurable_8x4_Virtualized_Fabrication_Design/blob/master/Multiplexer_(MUX)/MUX4X1.vhd): Implementation of the MUX4X1 entity
-- [Register_Module REG.vhd](https://github.com/HanumanSagarBathula7392/Reconfigurable_8x4_Virtualized_Fabrication_Design/blob/master/Register_Module/REG.vhd): Implementation of the REG_D entity
+- [Register_Module (REG.vhd)](https://github.com/HanumanSagarBathula7392/Reconfigurable_8x4_Virtualized_Fabrication_Design/blob/master/Register_Module/REG.vhd): Implementation of the REG_D entity
 - [Overall Design (TopModule.vhd)](https://github.com/HanumanSagarBathula7392/Reconfigurable_8x4_Virtualized_Fabrication_Design/blob/master/Top_Module/TopModule.vhd): Main module interconnecting all components
 - [Project_Report.pdf](https://github.com/HanumanSagarBathula7392/Reconfigurable_8x4_Virtualized_Fabrication_Design/blob/master/Project_Report.pdf): Detailed design documentation and test cases
 
